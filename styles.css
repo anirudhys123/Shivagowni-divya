@@ -477,6 +477,14 @@
             text-align: center;
             padding: 2rem;
         }
+        .contact-heading {
+    text-align: center;
+    font-size: 1.5rem;
+    margin-bottom: 15px;
+    color: #fff;
+    letter-spacing: 1px;
+}
+
 
         .social-links {
             display: flex;
